@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("Hello Travis, please work!");
 
-        System.out.println("Seems it works");
+        System.out.println("Seems it works..");
 
     }
 }
